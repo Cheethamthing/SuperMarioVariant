@@ -35,8 +35,8 @@ The minimal use of layers, but not zero in order to optimize the rendering perfo
 No use of frameworks or canvas
 
 Team Members:
-Nikoi K - https://github.com/kn1ko1
-Martin F - https://github.com/m-fenton
+Nikoi K. - https://github.com/kn1ko1
+Martin F. - https://github.com/m-fenton
 Michael A. - https://github.com/11ma
-Captain Rupert C - https://github.com/Cheethamthing
-Featuring: Shane L - https://github.com/ShaneTheDragon
+Captain Rupert C. - https://github.com/Cheethamthing
+Featuring: Shane L. - https://github.com/ShaneTheDragon
