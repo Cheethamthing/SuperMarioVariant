@@ -1,42 +1,41 @@
-To run: Open index.html using the live server extension, this should automatically open your browser to the correct page
-
 # Super-Mario
 
-Controls:
+## How to Run
+1. Open `index.html` using a live server extension. This will automatically open the correct page in your browser.
 
-Left/Right arrow keys to move
-Up/Space to jump
-Esc to call/dismiss pause menu
-M to toggle sound off/on
+## Controls
+- Left/Right arrow keys: Move
+- Up/Space: Jump
+- Esc: Call/Dismiss pause menu
+- M: Toggle sound off/on
 
-// cheats
-N to skip the current level
-I to activate star power
-S to activate mushroom/big mode
-F to cancel current effects
+## Cheats
+- N: Skip the current level
+- I: Activate star power
+- S: Activate mushroom/big mode
+- F: Cancel current effects
 
-## Features implemented in our game:
+## Features
 
-Game coded in JavaScript, HTML and CSS
+### Implemented in Our Game
+- Game coded in JavaScript, HTML, and CSS
+- Proper use of RequestAnimationFrame
+- Pause menu, including:
+  - Continue
+  - Restart
 
-Proper use of RequestAnimationFrame
-Pause menu, that includes:
-Continue
-Restart
+- Story mode accessible from the main menu
+- Story displayed at the start, after the first level, and end of the game
+- Bonus page if the player collects 10 coins in levels 2 or 3
+- Countdown clock or Timer indicating the remaining time until the game ends
+- Score display showing current and total score at the end
+- Lives display indicating the remaining lives
+- Minimal use of layers for optimized rendering performance
+- No use of frameworks or canvas
 
-A story mode, accessible from the main menu
-
-Story is displayed at the start, after the first level and end of the game, as well as a bonus page if the player collects 10 coins in levels 2 or 3
-
-Countdown clock or Timer that will indicate the amount of time the player has until the game ends or the time that the game has been running
-Score that will display the current score and tracks total score - displays at the end
-Lives that shows the number of lives that the player has left
-The minimal use of layers, but not zero in order to optimize the rendering performance.
-No use of frameworks or canvas
-
-Team Members:
-Nikoi K. - https://github.com/kn1ko1
-Martin F. - https://github.com/m-fenton
-Michael A. - https://github.com/11ma
-Captain Rupert C. - https://github.com/Cheethamthing
-Featuring: Shane L. - https://github.com/ShaneTheDragon
+## Team Members
+- Nikoi K. - [GitHub](https://github.com/kn1ko1)
+- Martin F. - [GitHub](https://github.com/m-fenton)
+- Michael A. - [GitHub](https://github.com/11ma)
+- Captain Rupert C. - [GitHub](https://github.com/Cheethamthing)
+- Featuring: Shane L. - [GitHub](https://github.com/ShaneTheDragon)
