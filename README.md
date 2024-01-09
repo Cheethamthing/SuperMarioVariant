@@ -37,5 +37,5 @@
 - Nikoi K. - [GitHub](https://github.com/kn1ko1)
 - Martin F. - [GitHub](https://github.com/m-fenton)
 - Michael A. - [GitHub](https://github.com/11ma)
-- Captain Rupert C. - [GitHub](https://github.com/Cheethamthing)
+- Captain Rupert C. - [GitHub](https://github.com/RupertCheetham)
 - Featuring: Shane L. - [GitHub](https://github.com/ShaneTheDragon)
